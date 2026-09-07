@@ -1,7 +1,7 @@
-// Service Worker para CashFlowApp_v 3.7.0
+// Service Worker para CashFlowApp_v 4.1.0
 // medbasha
 
-const cacheName = 'cashflowapp-v3.7.0';
+const cacheName = 'cashflowapp-v4.1.0';
 const assets = [
   './',
   './index.html',
